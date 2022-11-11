@@ -1,4 +1,4 @@
-# JY-S-Dev-Blog
+# JY-Dev-Blog
 Week 1:
 What is HTML and CSS
-Heading, Paragraph, Unordered List and Ordered List
+<p>Heading, Paragraph, Unordered List and Ordered List</p>
